@@ -1,0 +1,23 @@
+﻿Apro il terminale (powershell)--->cd /directory (dove avrò la cartella di czech-it)
+
+Sito di github con czech-it.
+
+Powershell: git clone https://github.com/Czech-IT/Czech-IT.github.io
+
+SI crea la cartella
+
+Vado in data--->apro data.csv (in calc)
+
+Vado su drive, vado in risposte dei testi a prendere le entrate. 
+In data csv creo gli item e le tipologie di messaggio.
+Copio i testi (una colonna per volta).
+Casella data (manualmente)
+
+Powershell: cd /(la nuova directory)
+git add .
+
+git commit -m "nitra texts"
+git push
+user e password
+
+
